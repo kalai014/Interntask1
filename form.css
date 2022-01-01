@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    display: flex;
+}
+
+.form {
+    background-color: black;
+    color: RED;
+    margin-left: 400px;
+    font-size: 20px;
+}
+
+button {
+    font-size: 20px;
+    color: black;
+}
